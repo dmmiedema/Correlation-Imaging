@@ -1,5 +1,5 @@
 # Correlation-Imaging
-Matlab script to calculate density, velocity and run length of molecular motors on microtubules using correlation imaging.
+Matlab script to calculate density, velocity and run length of molecular motors on microtubules using correlation imaging (CI).
 
 This program calculates the velocity and run length of particles moving along a straight segment, as well as the (1D) density of particles on the segment. The method is based on spatiotemporal correlations of the intensities from the moving objects. It has been developed to measure the density, velocity and run length of fluorescently labeled molecular motors moving along microtubule segments, and is applicable also at high motor density. 
 
